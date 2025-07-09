@@ -13,9 +13,6 @@ A simple yet powerful To-Do web application built using Django. This app allows 
 - 🔍 Clean and minimal UI using HTML/CSS/Bootstrap
 - 🔐 Basic user authentication (if implemented)
 
-## 📸 Screenshots
-
-> *(You can add screenshots of the UI here for better presentation)*
 
 ## 🛠 Tech Stack
 
