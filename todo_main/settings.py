@@ -28,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = Config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = Config('DEBUG' , default=False, cast=bool)
+DEBUG = Config('DEBUG' , default=False, cast=bool) # type: ignore
 
 ALLOWED_HOSTS = ['.onrender.com']
 
