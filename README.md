@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 📝 Django To-Do App
 
 A simple yet powerful To-Do web application built using Django. This app allows users to manage daily tasks efficiently with features like task creation, updating, deletion, and marking tasks as completed.
